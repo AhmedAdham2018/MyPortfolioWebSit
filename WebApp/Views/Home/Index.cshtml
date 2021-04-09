@@ -1,3 +1,5 @@
+@model HomeViewModel
+
 @{
     ViewData["Title"] = "Home";
 }
@@ -7,10 +9,10 @@
     <div class="container d-flex align-items-center flex-column">
 
       <!-- Masthead Avatar Image -->
-      <img class="masthead-avatar mb-5" src="~/img/avatar.jpg" style="border-radius:50%" alt="">
+      <img class="masthead-avatar mb-5" src="~/img/@Model.Developer.Avatar" style="border-radius:50%" alt="">
 
       <!-- Masthead Heading -->
-      <h1 class="masthead-heading text-uppercase mb-0">Ahmed Adham</h1>
+      <h1 class="masthead-heading text-uppercase mb-0">@Model.Developer.Fullname</h1>
 
       <!-- Icon Divider -->
       <div class="divider-custom divider-light">
@@ -22,7 +24,7 @@
       </div>
 
       <!-- Masthead Subheading -->
-      <p class="masthead-subheading font-weight-light mb-0">Software Engineer - Full Stack Web Developer</p>
+      <p class="masthead-subheading font-weight-light mb-0">@Model.Developer.Profile</p>
 
     </div>
   </header>

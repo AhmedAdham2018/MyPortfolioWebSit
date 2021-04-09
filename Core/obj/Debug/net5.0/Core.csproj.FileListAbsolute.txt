@@ -1,0 +1,12 @@
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\bin\Debug\net5.0\Core.deps.json
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\bin\Debug\net5.0\Core.dll
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\bin\Debug\net5.0\ref\Core.dll
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\bin\Debug\net5.0\Core.pdb
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\obj\Debug\net5.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\obj\Debug\net5.0\Core.AssemblyInfoInputs.cache
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\obj\Debug\net5.0\Core.AssemblyInfo.cs
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\obj\Debug\net5.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\obj\Debug\net5.0\Core.dll
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\obj\Debug\net5.0\ref\Core.dll
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\obj\Debug\net5.0\Core.pdb
+C:\Users\abo elalaa\source\repos\MyPortfolioSite\Core\obj\Debug\net5.0\Core.csprojAssemblyReference.cache
